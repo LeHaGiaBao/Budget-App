@@ -1,11 +1,3 @@
-<div align="center">
-
-![GitHub repo size](https://img.shields.io/github/repo-size/LeHaGiaBao/Budget-App?style=for-the-badge)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![GitHub forks](https://img.shields.io/github/forks/LeHaGiaBao/Budget-App?style=for-the-badge)
-
-</div>
-
 ### Assignment
 
 Complete the `Category` class in `budget.py`. It should be able to instantiate objects based on different budget categories like *food*, *clothing*, and *entertainment*. When objects are created, they are passed in the name of the category. The class should have an instance variable called `ledger` that is a list. The class should also contain the following methods:
